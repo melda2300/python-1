@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9abf18f3-1ef9-40aa-a62e-36d041d1b747" name="Changes" comment="" />
+    <list default="true" id="9abf18f3-1ef9-40aa-a62e-36d041d1b747" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/start/ARİTMETİK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start/proje1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start/main2.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "Merging main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -46,5 +52,8 @@
       <updated>1764839438350</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
